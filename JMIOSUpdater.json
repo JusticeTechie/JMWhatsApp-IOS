@@ -1,10 +1,14 @@
 {
   "records": [
     {
-      "version": "JMWhatsApp IOS V2",
-      "code": 13,
-      "url": "http://www.youtube.com/@JusticeTech",
-      "changelog": "- New Update -\n More features and improvements!"
+       "Visibility": "VISIBLE",
+  "Title": "Test",
+  "Description": "Test Message",
+  "MainTextButton": "Update",
+  "Cancelable": true,
+  "CancelButtonText": "Cancel",
+  "Url": "https://google.com",
+  "Code": 13
     }
   ]
 }
