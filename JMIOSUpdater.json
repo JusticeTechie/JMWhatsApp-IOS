@@ -1,7 +1,7 @@
 {
   "records": [
     {
-       "Visibility": "VISIBLE",
+  "Visibility": "VISIBLE",
   "Title": "Test",
   "Description": "Test Message",
   "MainTextButton": "Update",
