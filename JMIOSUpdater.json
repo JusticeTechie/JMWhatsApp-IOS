@@ -1,10 +1,14 @@
 {
-  "records": [
-    {
-      "version": "JMWhatsApp Pro V5.0",
-      "code": 16,
-      "url": "www.youtube.com/@JusticeTech",
-      "changelog": " - Update Base v2.24.11.79 - Add Rounded HomeUI - Add Parallax HomeUI with Cover - Add Curve HomeUI with Cover - Single and Double Tap Action in Chat - Customize Segment Button"
-    }
-  ]
-}
+  "versionCode": 10,
+  "versionName": "1.0",
+  "Msg": "New update is available, to continue in our app please update it.
+
+What's new:
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
+
+Thanks for using",
+  "downloadLink": "https://www.youtube.com/@JusticeTech"
+  }
