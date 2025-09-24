@@ -1,14 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0",
-  "Msg": "New update is available, to continue in our app please update it.
-
-What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
-
-Thanks for using",
-  "downloadLink": "https://www.youtube.com/@JusticeTech"
-  }
+    "Title": "Update Found! ⚡",
+    "versionCode": "2147483648",
+    "versionName": "2.25.21.82",
+    "updateSize": "98.34 MB",
+    "releaseDate": "September 08, 2025",
+    "Msg": "🎉 Update Log:\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
+    "downloadLink": "https://t.me/jmwhatsapp"
+}
